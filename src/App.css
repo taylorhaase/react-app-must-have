@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 200px;
+  width: 340px;
+
+}
+
+.App-header {
+  background-color: black;
+  height: 300px;
+  padding: 20px;
+  color: #787878;
+  font-family: 'Dosis', sans-serif;
+
+
+}
+
+.App-intro {
+  font-size: large;
+}
+
+#description {
+  font-size:18pt;
+  height:60px;
+  width:120px;
+}
+
+/*@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}*/
